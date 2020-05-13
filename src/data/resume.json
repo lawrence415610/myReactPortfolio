@@ -1,0 +1,182 @@
+{
+  "basics": {
+    "name": "Yelin Liu",
+    "label": "Web Developer",
+    "picture": "",
+    "email": "lawrence415610@gmail.com",
+    "phone": "0468600207",
+    "website": "http://yelinliu.com",
+    "summary": "Full stack Developer adept at creating successful websites that meet customer needs. Specializing in collaborating with customers to gather requirements, produce plans and improve designs for usability and functionality. Good at React , JQuery and Node.js .",
+    "location": {
+      "address": "34 Foley St.",
+      "postalCode": "2500",
+      "city": "Gwynneville",
+      "countryCode": "AU",
+      "region": "NSW"
+    },
+    "profiles": [
+      {
+        "network": "Linkin",
+        "username": "Yelin Liu",
+        "url": "https://www.linkedin.com/in/yelin-liu-845328133/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "JR Academy",
+      "position": "Frontend Developer Intern",
+      "website": "https://jrtalent.com.au/",
+      "startDate": "2020-04-22",
+      "summary": "Use React.js and Node.js to accomplish web projects",
+      "location": "Sydney, AU",
+      "highlights": [
+        "Worked in agile team",
+        "contribute almost half of the commits"
+      ]
+    },
+    {
+      "name": "University of Wollongong",
+      "position": "Research Assistant",
+      "website": "https://www.uow.edu.au/",
+      "startDate": "2019-04-01",
+      "endDate": "2020-04-01",
+      "summary": "Designed and updated multimedia presentation and website for academic use",
+      "location": "Sydney, AU",
+      "highlights": [
+        "Published a conference in IEEE/ACM",
+        "published a journal paper in IEEE/ACM"
+      ]
+    },
+    {
+      "name": "SHENZHENZHONGTAI Design Institution",
+      "position": "Architect",
+      "website": null,
+      "summary": "Design and make architectural portfolio deliver residential projects",
+      "location": "Nanchang, China",
+      "highlights": [
+        "Delivered three major residential projects",
+        "help clients make decisions"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "University of Wollongong",
+      "position": "Volunteer",
+      "website": "https://www.uow.edu.au/",
+      "endDate": "2019-04-01",
+      "summary": "volunteered as communicator of the university to help offshore students",
+      "highlights": ["high efficiency in communication"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "JR Academy",
+      "area": "Web development",
+      "studyType": "Skill Training",
+      "startDate": "2020-04-01",
+      "endDate": "2020-06-01"
+    },
+    {
+      "institution": "University of Wollongong",
+      "area": "Master of Computer Science",
+      "studyType": "Full-time",
+      "startDate": "2019-03-01",
+      "endDate": "2020-12-30"
+    },
+    {
+      "institution": "Monash Univeristy",
+      "area": "Master of Interaction Design",
+      "studyType": "Full-time",
+      "startDate": "2018-03-01",
+      "endDate": "2019-12-30"
+    },
+    {
+      "institution": "Nanchang Univeristy",
+      "area": "Bachelor of Architecture",
+      "studyType": "Full-time",
+      "startDate": "2006-09-01",
+      "endDate": "2011-11-30"
+    }
+  ],
+  "awards": [
+    {
+      "title": "International Postgraduate Tuition Award",
+      "awarder": "University of Wollongong"
+    },
+    {
+      "title": "Engineering and Information Science Faculty Scholarship",
+      "awarder": "University of Wollongong"
+    },
+    {
+      "title": "Monash Hackthon First Prize",
+      "awarder": "Monash University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "A Testing Tool for Machine Learning Applications",
+      "publisher": "IEEE-ACM",
+      "releaseDate": "2020-11",
+      "website": "https://www.researchgate.net/publication/340487456_A_Testing_Tool_for_Machine_Learning_Applications",
+      "summary": "We present the design of MTKeras, a generic metamorphic testing framework for machine learning, and demonstrate its effectiveness through case studies in image classification and sentiment analysis."
+    }
+  ],
+  "skills": [
+    {
+      "name": "React",
+      "level": "skilled",
+      "value": 100,
+      "keywords": ["HTML", "CSS", "Javascript"]
+    },
+    {
+      "name": "NodeJS",
+      "level": "average",
+      "value": 40,
+      "keywords": ["HTML", "CSS", "Javascript"]
+    },
+    {
+      "name": "JQuery",
+      "level": "average",
+      "value": 60,
+      "keywords": ["HTML", "CSS", "Javascript"]
+    }
+  ],
+  "languages": [
+    { "language": "English", "value": 80, "fluency": "good" },
+    { "language": "Chinese", "value": 100, "fluency": "native" },
+    { "language": "Japanese", "value": 60, "fluency": "good" }
+  ],
+  "interests": [
+    {
+      "name": "Anime, Commic, Game",
+      "gifUrl": "https://media.giphy.com/media/d8WjGORtSEWqc/giphy.gif"
+    },
+    {
+      "name": "Hapkido",
+      "gifUrl": "https://media.giphy.com/media/3o85xsGXVuYh8lM3EQ/giphy.gif"
+    },
+    {
+      "name": "Kindle",
+      "gifUrl": "https://media.giphy.com/media/EehnUUCH2JcwU/giphy.gif"
+    }
+  ],
+  "projects": [
+    {
+      "name": "React Weather App",
+      "description": "a weather app created using react",
+      "images": []
+    },
+    {
+      "name": "React Kanban",
+      "description": "a Kanban app created using react",
+      "images": []
+    },
+    {
+      "name": "Vanilla JS web portfolio",
+      "description": "a digital resume written in vanilla JS",
+      "images": []
+    }
+  ]
+}
